@@ -1,0 +1,12 @@
+{
+    "name": "chuckie/sms",
+    "authors": [
+        {
+            "name": "chuckie",
+            "email": "devchuckcamp@gmail.com"
+        }
+    ],
+    "require": {
+        "twilio/sdk": "^5.16"
+    }
+}
